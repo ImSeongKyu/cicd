@@ -10,5 +10,4 @@ public class DevVO {
     private double year = 1.5;
     private int payTot = 2500000;
     private double pay_tax=0.0;
-    
 }
