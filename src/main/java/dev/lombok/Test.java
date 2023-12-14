@@ -17,7 +17,6 @@ public class Test {
         System.out.println("세금(%): " + devVO.getPay_tax() + " %");
 
         System.out.println(devVO.toString());
-        System.out.println(devVO.toString());
     }
 
 }
